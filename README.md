@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./assets/images/site-img-new.png" />
+  <!--img src="./assets/images/site-img-new.png" /-->
 
   <h2 align="center">Hasan - Personal portfolio</h2>
 
