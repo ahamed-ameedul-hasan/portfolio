@@ -1,5 +1,30 @@
 'use strict';
 
+
+document.addEventListener('DOMContentLoaded', function() {
+  const tabs = document.querySelectorAll('.tab-link');
+  const contents = document.querySelectorAll('.tab-content');
+
+  tabs.forEach(tab => {
+      tab.addEventListener('click', function() {
+          const target = document.getElementById(this.getAttribute('data-tab'));
+
+          tabs.forEach(t => t.classList.remove('active'));
+          this.classList.add('active');
+
+          contents.forEach(content => {
+              content.classList.remove('active');
+              content.style.display = 'none';
+          });
+
+          target.style.display = 'block';
+          target.classList.add('active');
+      });
+  });
+});
+
+
+
 /*Form Submission*/ 
 var form = document.getElementById("my-form");
   

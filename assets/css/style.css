@@ -1,3 +1,62 @@
+
+
+.tabs-container {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  display: grid;
+  justify-content: stretch;
+  align-items: center;
+  padding: 0px 100px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  background-color: #007BFF;
+  border-bottom: 1px solid #ddd;
+}
+
+.tab-link {
+  background: none;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tab-link:hover, .tab-link.active {
+  background-color: #0056b3;
+}
+
+.tabs-content {
+  position: relative;
+}
+
+.tab-content {
+  display: none;
+  padding: 20px;
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+
 /*-----------------------------------*\
  * style.css
 \*-----------------------------------*/
@@ -639,7 +698,7 @@ main { overflow-x: hidden; }
 .skills-box .skills-list,
 .skills-box.active .tools-list {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
   gap: 15px;
@@ -1398,4 +1457,9 @@ textarea.input-field {
   .hero-title{
     font-size: 29px;
 }
+}
+.h4.card-title span {
+  color: #e38445;
+  font-size: 14px;
+  margin-top: 5px;
 }
