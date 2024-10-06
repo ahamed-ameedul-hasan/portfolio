@@ -708,7 +708,7 @@ main { overflow-x: hidden; }
   .skills-box .skills-list, .skills-box.active .tools-list {
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    padding: 0px 60px;
+    padding: 0px 40px;
   }
 }
 
