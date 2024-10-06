@@ -704,6 +704,13 @@ main { overflow-x: hidden; }
   gap: 15px;
   animation: fadeIn 0.5s ease-out forwards;
 }
+@media only screen and (max-width: 800px) {
+  .skills-box .skills-list, .skills-box.active .tools-list {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 0px 60px;
+  }
+}
 
 @keyframes fadeIn {
 
