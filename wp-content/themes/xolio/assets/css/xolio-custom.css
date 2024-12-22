@@ -1,0 +1,203 @@
+/* Search results  CSS */
+.search-results .inner-blog-item.type-product {
+    max-width: 800px;
+}
+.search-results .inner-blog-item.type-product .blog-content:not(.blog-details-content) .post-text {
+    margin: 0 0;
+}
+.search-results .inner-blog-item.type-product .blog-content .post-text p {
+    margin: 0 0;
+}
+.search-results .inner-blog-item.type-product .blog-content .title {
+    margin-bottom: 15px;
+}
+.mc4wp-alert {
+    margin: 20px 0 0;
+    text-align: center;
+}
+.mc4wp-alert p {
+    margin: 0 0;
+}
+.mc4wp-success p {
+    color: green;
+}
+
+/* Elementor Custom CSS */
+.about-content-list-item .elementor-image-box-img {
+    flex: 0 0 auto;
+    width: 60px;
+}
+.elementor-38 .elementor-element.elementor-element-d9419f1 {
+    animation: animationFramesOne 20s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-dcc4abd {
+    animation: animationFramesOne 10s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-f23727b {
+    animation: contactSwimmer 20s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-6e4377d {
+    animation: animationFramesOne 35s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-2ea4861 {
+    animation: rotateme 10s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-50f523d {
+    animation: contactSwimmer 15s infinite linear;
+}
+.elementor-38 .elementor-element.elementor-element-84b450d {
+    width: 33.33%;
+    flex: 0 0 33.33%;
+}
+.elementor-element-3b8cbf0.text-right .project-nav {
+    justify-content: flex-end;
+}
+.elementor-38 .elementor-element.elementor-element-6448e3f {
+    width: 110%;
+    overflow: hidden;
+    -ms-flex: 0 0 110%;
+    flex: 0 0 110%;
+    max-width: 110%;
+    margin-left: 40px;
+}
+.elementor-51 .elementor-element.elementor-element-faf0bfe .elementor-heading-title span {
+    color: var(--tg-purple);
+}
+.elementor-51 .elementor-element.elementor-element-20afb4e,
+.elementor-51 .elementor-element.elementor-element-0dfaf26 {
+    animation: animationFramesOne 25s infinite linear;
+}
+.elementor-51 .elementor-element.elementor-element-4cd261e,
+.elementor-53 .elementor-element.elementor-element-5ab11a4 {
+    animation: animationFramesOne 25s infinite linear;
+}
+.elementor-51 .elementor-element.elementor-element-efbea75,
+.elementor-53 .elementor-element.elementor-element-895ab6a {
+    animation: rotateme 10s infinite linear;
+}
+.elementor-51 .elementor-element.elementor-element-21130d0 {
+    animation: ribbonRotate 12s infinite linear;
+}
+.elementor-51 .elementor-element.elementor-element-c9b137d {
+    animation: animationFramesOne 30s infinite linear;
+}
+.elementor-51 .elementor-element.elementor-element-f70992e,
+.elementor-53 .elementor-element.elementor-element-c2e2c4b {
+    animation: ribbonRotate 10s infinite linear;
+}
+div.elementor-51 .elementor-element.elementor-element-060dfc7 {
+    width: 33.4%;
+}
+.elementor-53 .elementor-element.elementor-element-885e64a {
+    animation: contactSwimmer 10s infinite linear;
+}
+.elementor-53 .elementor-element.elementor-element-eca960b {
+    animation: animationFramesOne 20s infinite linear;
+}
+.elementor-53 .elementor-element.elementor-element-d287b9f,
+.elementor-53 .elementor-element.elementor-element-612255d {
+    animation: animationFramesOne 25s infinite linear;
+}
+.elementor-53 .elementor-element.elementor-element-b381fa9 {
+    animation: rotateme 8s infinite linear;
+}
+.elementor-53 .elementor-element.elementor-element-229d39e {
+    animation: 10s linear 0s infinite normal none running contactSwimmer;
+}
+.image-width-auto.elementor-widget img {
+    max-width: inherit;
+}
+.elementor-56 .elementor-element.elementor-element-34fdb60 .elementor-icon-list-icon i {
+    font-weight: 400;
+}
+.elementor-56 .elementor-element.elementor-element-09f140e {
+    height: 100%;
+}
+.elementor-56 .elementor-element.elementor-element-09f140e>.elementor-widget-container {
+    height: 100%;
+}
+.testimonial-area-four .testimonial-swiper-pagination {
+    display: none;
+}
+.elementor-58 .elementor-element.elementor-element-b0476d0,
+.elementor-62 .elementor-element.elementor-element-c94a46a {
+    animation: alltuchtopdown 6s infinite linear;
+}
+.elementor-58 .elementor-element.elementor-element-b2786ea,
+.elementor-62 .elementor-element.elementor-element-7d1b9aa {
+    animation: ribbonRotate 8s infinite linear;
+}
+.xolio-contact-form .wpcf7-response-output {
+    background: #fff;
+}
+.xolio-contact-form .wpcf7-not-valid-tip {
+    background: transparent;
+}
+.overlay-title-opacity {
+    opacity: .06;
+}
+
+
+/* Elementor Responsive */
+@media (max-width: 1800px) {
+    .image-width-auto.elementor-widget img {
+        max-width: 100%;
+    }
+}
+@media (max-width: 1199.98px) {
+    .elementor-38 .elementor-element.elementor-element-ed810b7>.elementor-container {
+        flex-wrap: wrap;
+    }
+    .elementor-38 .elementor-element.elementor-element-84b450d {
+        width: 100%;
+        flex: 0 0 100%;
+    }
+    .elementor-38 .elementor-element.elementor-element-6448e3f {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 991.98px){
+    .elementor-51 .elementor-element.elementor-element-43c137e .elementor-inner-section .elementor-column-gap-no {
+        justify-content: center;
+    }
+    div.elementor-51 .elementor-element.elementor-element-060dfc7 {
+        width: 100%;
+    }
+    .elementor-inner-column.elementor-element.elementor-element-ebbd4ee {
+        height: 420px;
+    }
+    .elementor-58 .elementor-element.elementor-element-4c76776>.elementor-container {
+        justify-content: center;
+    }
+    div.elementor-68 .elementor-element.elementor-element-981a195 {
+        position: relative;
+        right: 0;
+        left: 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .about-content-list-item .elementor-image-box-img {
+        margin: 0 0 15px !important;
+    }
+    .elementor-element-3b8cbf0.text-right .project-nav {
+        justify-content: flex-start;
+    }
+    .elementor-38 .elementor-element.elementor-element-6448e3f {
+        width: 100%;
+        -ms-flex: 0 0 110%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .banner-content-bottom .list-wrap {
+        justify-content: center;
+    }
+    .elementor-51 .elementor-element div.emu-contact-info-list .elementor-image-box-wrapper .elementor-image-box-img {
+        width: 60px;
+        margin: 0 0 15px;
+    }
+    .elementor-inner-column.elementor-element.elementor-element-ebbd4ee {
+        height: 320px;
+    }
+}
