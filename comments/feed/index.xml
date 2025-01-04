@@ -10,75 +10,12 @@
 	Comments for Hasan Portfolio	</title>
 	<atom:link href="https://ahamed-ameedul-hasan.github.io/showcases/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahamed-ameedul-hasan.github.io/showcases</link>
-	<description></description>
-	<lastBuildDate>Sun, 22 Dec 2024 17:24:03 +0000</lastBuildDate>
+	<description>Ahamed Ameedul Hasan</description>
+	<lastBuildDate>Sat, 04 Jan 2025 18:41:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
-	<item>
-		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 17:14:45 +0000</pubDate>
-		<guid isPermaLink="false">https://ahamed-ameedul-hasan.github.io/showcases/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on How to Post a Classified Ad Online or in Newspapers by William Shatner		</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comment-4</link>
-
-		<dc:creator><![CDATA[William Shatner]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:27:22 +0000</pubDate>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=8#comment-4</guid>
-
-					<description><![CDATA[Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.]]></description>
-			<content:encoded><![CDATA[<p>Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on How to Post a Classified Ad Online or in Newspapers by Jonathon wells		</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comment-3</link>
-
-		<dc:creator><![CDATA[Jonathon wells]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:25:46 +0000</pubDate>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=8#comment-3</guid>
-
-					<description><![CDATA[In reply to &lt;a href=&quot;https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comment-2&quot;&gt;xolio&lt;/a&gt;.
-
-Sed nulla ante amet, elementum tincidunt arcu sed laoreet, natoque ac eget imperdiet. Ac scelerisque nibh dolores consectetuer, nulla aptent est pede. Scelerisque euismod varius mi, congue eget sed vestibulum.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comment-2">xolio</a>.</p>
-<p>Sed nulla ante amet, elementum tincidunt arcu sed laoreet, natoque ac eget imperdiet. Ac scelerisque nibh dolores consectetuer, nulla aptent est pede. Scelerisque euismod varius mi, congue eget sed vestibulum.</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on How to Post a Classified Ad Online or in Newspapers by xolio		</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comment-2</link>
-
-		<dc:creator><![CDATA[xolio]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:24:53 +0000</pubDate>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=8#comment-2</guid>
-
-					<description><![CDATA[In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development.]]></description>
-			<content:encoded><![CDATA[<p>In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

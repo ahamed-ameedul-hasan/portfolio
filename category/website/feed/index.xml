@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Hasan Portfolio</title>
-	<atom:link href="https://ahamed-ameedul-hasan.github.io/showcases/feed/" rel="self" type="application/rss+xml" />
+	<title>Website &#8211; Hasan Portfolio</title>
+	<atom:link href="https://ahamed-ameedul-hasan.github.io/showcases/category/website/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahamed-ameedul-hasan.github.io/showcases</link>
 	<description>Ahamed Ameedul Hasan</description>
 	<lastBuildDate>Sat, 04 Jan 2025 18:41:49 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2025/01/Favi-icon.png</url>
-	<title>Hasan Portfolio</title>
+	<title>Website &#8211; Hasan Portfolio</title>
 	<link>https://ahamed-ameedul-hasan.github.io/showcases</link>
 	<width>32</width>
 	<height>32</height>
