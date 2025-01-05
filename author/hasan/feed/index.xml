@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>hasan &#8211; Hasan Portfolio</title>
+	<title>hasan, Author at Hasan Portfolio</title>
 	<atom:link href="https://ahamed-ameedul-hasan.github.io/showcases/author/hasan/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ahamed-ameedul-hasan.github.io/showcases</link>
-	<description></description>
-	<lastBuildDate>Sun, 22 Dec 2024 17:24:03 +0000</lastBuildDate>
+	<link>https://ahamed-ameedul-hasan.github.io/showcases/author/hasan/</link>
+	<description>Ahamed Ameedul Hasan</description>
+	<lastBuildDate>Sun, 05 Jan 2025 13:39:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,143 +21,41 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2023/03/favicon.png</url>
-	<title>hasan &#8211; Hasan Portfolio</title>
-	<link>https://ahamed-ameedul-hasan.github.io/showcases</link>
+	<url>https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2025/01/Favi-icon.png</url>
+	<title>hasan, Author at Hasan Portfolio</title>
+	<link>https://ahamed-ameedul-hasan.github.io/showcases/author/hasan/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/hello-world/</link>
-					<comments>https://ahamed-ameedul-hasan.github.io/showcases/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[hasan]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 17:14:45 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://ahamed-ameedul-hasan.github.io/showcases/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://ahamed-ameedul-hasan.github.io/showcases/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Designing Birthday Picker UX Simpler Is Better</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/designing-birthday-picker-ux-simpler-is-better/</link>
-					<comments>https://ahamed-ameedul-hasan.github.io/showcases/designing-birthday-picker-ux-simpler-is-better/#respond</comments>
+		<title>Transform Your Online Presence with a Stunning WordPress Website Using Elementor</title>
+		<link>https://ahamed-ameedul-hasan.github.io/showcases/wordpress-elementor-website-development/</link>
 		
 		<dc:creator><![CDATA[hasan]]></dc:creator>
 		<pubDate>Sat, 11 Mar 2023 06:42:26 +0000</pubDate>
-				<category><![CDATA[Agency]]></category>
-		<category><![CDATA[Creative]]></category>
-		<category><![CDATA[UI]]></category>
-		<category><![CDATA[UX]]></category>
+				<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">https://themedox.com/xolio/?p=46</guid>
 
-					<description><![CDATA[Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim voluptatem voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-<div class="blog-details-img">
-<img decoding="async" src="https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2023/03/inner_blog_img02.jpg" alt="image">
-</div>
-<p>Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.</p>
-<p>In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development teams to</p>
+					<description><![CDATA[<p>Introduction In today’s digital world, a professional and visually appealing website is essential for businesses to stand out. Whether you&#8217;re an entrepreneur, a small business owner, or running an online store, your website serves as the digital face of your brand. As a skilled WordPress developer specializing in Elementor, I can help you create a [&#8230;]</p>
+<p>The post <a href="https://ahamed-ameedul-hasan.github.io/showcases/wordpress-elementor-website-development/">Transform Your Online Presence with a Stunning WordPress Website Using Elementor</a> appeared first on <a href="https://ahamed-ameedul-hasan.github.io/showcases">Hasan Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="46" class="elementor elementor-46">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-4479b323 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4479b323" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-785ce280" data-id="785ce280" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-63310e8a elementor-widget elementor-widget-text-editor" data-id="63310e8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-pm-slice="1 1 []"><strong>Introduction</strong> In today’s digital world, a professional and visually appealing website is essential for businesses to stand out. Whether you&#8217;re an entrepreneur, a small business owner, or running an online store, your website serves as the digital face of your brand. As a skilled WordPress developer specializing in Elementor, I can help you create a website that not only looks amazing but also functions seamlessly to meet your business goals.</p><p><strong>Why Choose WordPress and Elementor?</strong> WordPress powers over 40% of websites on the internet, making it the most trusted content management system (CMS) worldwide. When paired with Elementor, a powerful drag-and-drop page builder, the possibilities are endless:</p><ul data-spread="false"><li><p><strong>User-Friendly Design:</strong> Elementor makes it easy to create custom designs without needing to know complex coding.</p></li><li><p><strong>Fully Responsive Websites:</strong> Your site will look stunning and work perfectly on desktops, tablets, and smartphones.</p></li><li><p><strong>Fast Loading Speed:</strong> Optimize your website for performance, ensuring visitors stay longer.</p></li><li><p><strong>SEO-Ready:</strong> Boost your visibility on search engines with clean code and SEO-friendly designs.</p></li><li><p><strong>Customizable Features:</strong> Add unique functionalities tailored to your business needs.</p></li></ul><p><strong>Services I Offer</strong></p><ol start="1" data-spread="true"><li><p><strong>Custom WordPress Website Development</strong> Bring your vision to life with a fully customized WordPress website built from scratch using Elementor. I ensure the design reflects your brand identity and engages your audience effectively.</p></li><li><p><strong>Website Redesign and Optimization</strong> Already have a website? Let me transform it with a fresh, modern look and improved functionality to stay ahead of the competition.</p></li><li><p><strong>eCommerce Solutions</strong> Take your business online with a fully functional WooCommerce store. From product pages to secure payment gateways, I’ll handle everything to make your eCommerce site a success.</p></li><li><p><strong>Landing Page Design</strong> Need a high-converting landing page? I design eye-catching pages optimized for lead generation and sales.</p></li><li><p><strong>Maintenance and Support</strong> Keep your website running smoothly with ongoing updates, backups, and technical support.</p></li></ol><p><strong>How I Work</strong></p><ol start="1" data-spread="false"><li><p><strong>Consultation:</strong> Understand your business needs, goals, and target audience.</p></li><li><p><strong>Planning:</strong> Create a sitemap and wireframe to outline the structure.</p></li><li><p><strong>Design &amp; Development:</strong> Build your website with Elementor, ensuring it’s visually appealing and functional.</p></li><li><p><strong>Testing:</strong> Test across multiple devices and browsers for a flawless user experience.</p></li><li><p><strong>Launch &amp; Support:</strong> Deploy your website and provide ongoing support as needed.</p></li></ol><p><strong>Let’s Create Something Amazing Together!</strong> If you’re looking for a reliable and creative WordPress developer to bring your ideas to life, I’m here to help. With my expertise in WordPress and Elementor, I’ll ensure your website becomes a powerful tool for growth and success.</p><p><strong>Contact Me Today</strong> Ready to get started? Let’s discuss your project and create a website that makes a lasting impression. Reach out to me via email or phone, and let’s build something exceptional together!</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://ahamed-ameedul-hasan.github.io/showcases/wordpress-elementor-website-development/">Transform Your Online Presence with a Stunning WordPress Website Using Elementor</a> appeared first on <a href="https://ahamed-ameedul-hasan.github.io/showcases">Hasan Portfolio</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ahamed-ameedul-hasan.github.io/showcases/designing-birthday-picker-ux-simpler-is-better/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Designing Filters That Work Best Practices and Guidelines</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/designing-filters-that-work-best-practices-and-guidelines/</link>
-					<comments>https://ahamed-ameedul-hasan.github.io/showcases/designing-filters-that-work-best-practices-and-guidelines/#respond</comments>
-		
-		<dc:creator><![CDATA[hasan]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:33:11 +0000</pubDate>
-				<category><![CDATA[Portfolio]]></category>
-		<category><![CDATA[Travel]]></category>
-		<category><![CDATA[Music]]></category>
-		<category><![CDATA[Style]]></category>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=44</guid>
-
-					<description><![CDATA[Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim voluptatem voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-<div class="blog-details-img">
-<img decoding="async" src="https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2023/03/inner_blog_img01.jpg" alt="image">
-</div>
-<p>Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.</p>
-<p>In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development teams to</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://ahamed-ameedul-hasan.github.io/showcases/designing-filters-that-work-best-practices-and-guidelines/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Usability Pitfalls of Disabled Buttons and How to Avoid Them</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/usability-pitfalls-of-disabled-buttons-and-how-to-avoid-them/</link>
-					<comments>https://ahamed-ameedul-hasan.github.io/showcases/usability-pitfalls-of-disabled-buttons-and-how-to-avoid-them/#respond</comments>
-		
-		<dc:creator><![CDATA[hasan]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:31:38 +0000</pubDate>
-				<category><![CDATA[Education]]></category>
-		<category><![CDATA[Fashion]]></category>
-		<category><![CDATA[Women]]></category>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=42</guid>
-
-					<description><![CDATA[Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim voluptatem voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-<div class="blog-details-img">
-<img decoding="async" src="https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2023/03/inner_blog_img02.jpg" alt="image">
-</div>
-<p>Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.</p>
-<p>In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development teams to</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://ahamed-ameedul-hasan.github.io/showcases/usability-pitfalls-of-disabled-buttons-and-how-to-avoid-them/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>How to Post a Classified Ad Online or in Newspapers</title>
-		<link>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/</link>
-					<comments>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/#comments</comments>
-		
-		<dc:creator><![CDATA[hasan]]></dc:creator>
-		<pubDate>Sat, 11 Mar 2023 06:13:34 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Design]]></category>
-		<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://themedox.com/xolio/?p=8</guid>
-
-					<description><![CDATA[Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Laboratories used for scientific research take many forms because of the differing requirements of specialists in the various fields of science and engineering. A physics laboratory</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim voluptatem voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, aperiam ipsquae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-<div class="blog-details-img">
-<img decoding="async" src="https://ahamed-ameedul-hasan.github.io/showcases/wp-content/uploads/2023/03/inner_blog_img02.jpg" alt="image">
-</div>
-<p>Like detailed blueprints that lay out all tasks, deadlines, bug reports, and more along the way, technology roadmaps are high-level visual summaries highlighting a company’s vision or plans.</p>
-<p>In an Agile approach a technology roadmap feeds the sprint and grooming processes, providing insight into how the product will travel from start to finish. It makes it easier for development teams to</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://ahamed-ameedul-hasan.github.io/showcases/how-to-post-a-classified-ad-online-or-in-newspapers/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
 		
 		
 			</item>
