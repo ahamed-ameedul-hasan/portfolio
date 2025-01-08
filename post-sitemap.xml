@@ -2,13 +2,20 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://ahamed-ameedul-hasan.github.io/portfolio/blog/</loc>
-		<lastmod>2025-01-05T13:39:59+00:00</lastmod>
+		<lastmod>2025-01-08T16:20:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://ahamed-ameedul-hasan.github.io/portfolio/wordpress-elementor-website-development/</loc>
 		<lastmod>2025-01-05T13:39:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2023/03/Website-Development-Blog-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ahamed-ameedul-hasan.github.io/portfolio/professional-wordpress-development/</loc>
+		<lastmod>2025-01-08T16:20:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/Blog-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
