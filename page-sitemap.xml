@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://ahamed-ameedul-hasan.github.io/portfolio/</loc>
-		<lastmod>2025-01-09T17:45:13+00:00</lastmod>
+		<lastmod>2025-05-06T17:53:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2023/06/slider_img01.png</image:loc>
 		</image:image>
@@ -79,16 +79,22 @@
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/RHCP.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/Gym-chilli.jpg</image:loc>
+			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/05/Vidruma.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/K7.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/05/New-Flat-Sale.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/design-pov.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/RealSME-Solutions.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/05/Velvra-v2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/SSM-School.jpg</image:loc>
@@ -119,12 +125,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2023/06/h3_newsletter_shape04.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2025/01/Blog-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2023/03/Website-Development-Blog-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://ahamed-ameedul-hasan.github.io/portfolio/wp-content/uploads/2023/03/secondary_logo.png</image:loc>
